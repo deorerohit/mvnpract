@@ -7,10 +7,10 @@ public class Student {
 	private String name;
 	
 	
-	/* public Student( String rollno, String name ) {
+	 public Student( int rollno, String name ) {
         this.rollno = rollno;
 		this.name = name;
-	 }*/
+	 }
 	 
 	public void setRollno(int rollno) {
 		this.rollno = rollno;
