@@ -1,10 +1,6 @@
 package com.rohit.mavenpractice;
 import java.io.*;
 
-/**
- * Hello world!
- *
- */
 public class App 
 {
     public static void main( String[] args ) throws Exception
